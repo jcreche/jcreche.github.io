@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>index.html</title>
+</head>
+<body
+    <p><img src="http://i64.tinypic.com/mtm7lw.jpg">
+    <h1>Juan Carlos</h1>
+    <h3>Estudiante Desarrollo de Aplicaciones</h3>
+    <h2>Bio</h2></p>
+    <h3>Administrative staff (2009-2015)</h3>
+    <h3>Logistic (2004-2008)</h3>
+    <h3>Telecoms engineering (2003)</h3>
+    <p><h2>Skills</h2></p>
+<ul>
+    <Li>Microsoft Office</Li>
+    <li>Adobe Photoshop</li>
+    <li>HTML</li>
+    <li>CSS</li>    
+</ul>
+    <p><h2>Roles</h2></p>
+<ul>
+    <li>Team member</li>
+    <li>Project developer</li>
+    <li>Student</li>
+</ul>
+</body>
+</html>
