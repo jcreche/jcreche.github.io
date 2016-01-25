@@ -17,7 +17,7 @@
     <li>HTML</li>
     <li>CSS</li>    
 </ul>
-    <h2>Roles</h2>
+    Roles
 <ul>
     <li>Team member</li>
     <li>Project developer</li>
