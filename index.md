@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8"/>
-    <title>index.html</title>
 </head>
 <body
     <p><img src="http://i64.tinypic.com/mtm7lw.jpg">
@@ -19,7 +17,7 @@
     <li>HTML</li>
     <li>CSS</li>    
 </ul>
-    <p><h2>Roles</h2></p>
+    <h2>Roles</h2>
 <ul>
     <li>Team member</li>
     <li>Project developer</li>
